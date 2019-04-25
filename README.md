@@ -1,5 +1,4 @@
-# liri-node-app 
-## - is an app Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. It is an app like iPhone's SIRI or Speech Interpretation and Recognition Interface,
+# liri-node-app ## - is an app Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. It is an app like iPhone's SIRI or Speech Interpretation and Recognition Interface,
 
 ###### This App uses: 
 * Spotify Api
