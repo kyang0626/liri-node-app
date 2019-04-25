@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # liri-node-app 
 ## LIRI Bot - is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
-=======
-# liri-node-app ## - is an app Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. It is an app like iPhone's SIRI or Speech Interpretation and Recognition Interface,
->>>>>>> 90d3ebb7264256cd2b82913b4e7625a4c05d870d
 
 ###### This App uses: 
 * Spotify Api
